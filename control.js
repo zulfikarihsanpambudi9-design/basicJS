@@ -95,9 +95,9 @@
 //     console.log ("ganjil");
 // }
 
-let nama = ["Andi", "Budi", "Citra"]
-if (nama[2] === "Citra") {
-    console.log("Nama Ditemukan");
-} else {
-    console.log("Tidak Ditemukan")
-}
+// let nama = ["Andi", "Budi", "Citra"]
+// if (nama[2] === "Citra") {
+//     console.log("Nama Ditemukan");
+// } else {
+//     console.log("Tidak Ditemukan")
+// }
